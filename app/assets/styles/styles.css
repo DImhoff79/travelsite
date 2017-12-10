@@ -1,4 +1,7 @@
+$mainColor:#2f5572;
+
 body{
     font-family: 'Roboto', sans-serif;
-    color: #333;
+    color: $mainColor;
+    columns: 300px 2;
 }
